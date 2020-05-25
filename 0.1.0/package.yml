@@ -1,0 +1,8 @@
+# Simple package
+
+name: OALT-DLAV
+parent: default
+
+matches:
+  - trigger: ":hw"
+    replace: "hello world"
