@@ -3,6 +3,26 @@
 name: OALT-DLAV
 parent: default
 
+#Inter-departmental
+
 matches:
   - trigger: ":hw"
     replace: "hello world"
+
+#Photography
+
+matches:
+  - trigger: ":yournewalbum"
+    replace: |
+              Hi,
+
+              Your new photo album is ready and uploaded at the link below,
+
+              {{clipboard}}
+
+              If there is anything further I can help with, please don't hesitate to let me know,
+
+              Thanks,
+    vars: 
+      - name: "clipboard"
+        type: "clipboard"
