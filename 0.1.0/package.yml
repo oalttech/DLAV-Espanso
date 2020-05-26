@@ -5,12 +5,9 @@ parent: default
 
 #Video
 matches:
-
-#Audio
-matches:
-
-#Photography
-matches:
+  #Video
+  #Audio
+  #Photography
   - trigger: ":yournewalbum"
     replace: |
               Hi,
