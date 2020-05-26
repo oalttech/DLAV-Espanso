@@ -6,8 +6,9 @@ parent: default
 #Video
 matches:
   #Video
+  - trigger: ":vimeolink"
+    replace: ""
   #Audio
-  #Photography
   - trigger: ":yournewalbum"
     replace: |
               Hi,
