@@ -3,14 +3,13 @@
 name: OALT-DLAV
 parent: default
 
-#Inter-departmental
-
+#Video
 matches:
-  - trigger: ":hw"
-    replace: "hello world"
+
+#Audio
+matches:
 
 #Photography
-
 matches:
   - trigger: ":yournewalbum"
     replace: |
