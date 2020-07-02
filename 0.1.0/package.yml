@@ -23,3 +23,6 @@ matches:
     vars: 
       - name: "clipboard"
         type: "clipboard"
+  #General
+  - trigger: ":techcontact"
+    replace: "It's best to contact Mitch Drake, our DLI Technician, \n You can reach them on 07 4631 2018 or at mitch.drake@usq.edu.au"
