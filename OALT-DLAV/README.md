@@ -16,6 +16,6 @@ $ espanso install OALT-DLAV https://github.com/oalttech/DLAV-Espanso --external
 
 # Commands
 ## :yournewalbum
-    With the link to a new photo album on your clipboard, this will fill out an email template to send to a client
+With the link to a new photo album on your clipboard, this will fill out an email template to send to a client
 ## :techcontact
-    Fills in details on DLI techical support
+Fills in details on DLI techical support
