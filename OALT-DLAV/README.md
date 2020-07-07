@@ -8,15 +8,14 @@ package_repo: "https://github.com/oalttech/DLAV-Espanso"
 ---
 Collections of various shortcuts for DLAV at USQ
 
+# Installation Instructions
+To install run the following command using Terminal or CMD
+```
+$ espanso install OALT-DLAV https://github.com/oalttech/DLAV-Espanso --external
+```
+
 # Version Log
 ## v0.1.0 - Initialilsation
+### 
 - Created package.yml file
 
-
-# Working On
-## Video
-## Audio
-## Photography
-- Created the :yournewalbum command, populating an email with a link to the url that a particular album, drawing from the clipboard.
-
-# Requests
