@@ -14,8 +14,8 @@ To install run the following command using Terminal or CMD
 $ espanso install OALT-DLAV https://github.com/oalttech/DLAV-Espanso --external
 ```
 
-# Version Log
-## v0.1.0 - Initialilsation
-### 
-- Created package.yml file
-
+# Commands
+## :yournewalbum
+    With the link to a new photo album on your clipboard, this will fill out an email template to send to a client
+## :techcontact
+    Fills in details on DLI techical support
